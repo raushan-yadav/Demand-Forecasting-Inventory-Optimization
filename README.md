@@ -40,6 +40,13 @@ To forecast monthly sales using historical data and provide business insights vi
 ✅ **Profit Drilldown**: Category → Segment-level insights for inventory and product strategy  
 ✅ **Data-Driven Inventory Decisions**: Predict stock needs ahead of time
 
+
+🙋‍♂️ Author
+Mehfil
+🎓 B.Tech in Artificial Intelligence & Data Science
+📊 Data Analyst | Business Analytics Enthusiast
+📍 Based in India | Seeking roles in UAE
+https://www.linkedin.com/in/your-profile
 ---
 
 ## 📈 Prophet Forecasting Code Snippet
@@ -61,11 +68,3 @@ forecast = model.predict(future)
 model.plot(forecast)
 
 
-##
-
-🙋‍♂️ Author
-Mehfil
-🎓 B.Tech in Artificial Intelligence & Data Science
-📊 Data Analyst | Business Analytics Enthusiast
-📍 Based in India | Seeking roles in UAE
-https://www.linkedin.com/in/your-profile
