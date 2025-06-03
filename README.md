@@ -46,7 +46,7 @@ Mehfil
 🎓 B.Tech in Artificial Intelligence & Data Science
 📊 Data Analyst | Business Analytics Enthusiast
 📍 Based in India | Seeking roles in UAE
-https://www.linkedin.com/in/your-profile
+
 ---
 
 ## 📈 Prophet Forecasting Code Snippet
