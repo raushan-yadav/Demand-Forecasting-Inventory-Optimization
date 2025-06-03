@@ -61,7 +61,9 @@ forecast = model.predict(future)
 model.plot(forecast)
 
 
-/🙋‍♂️ Author
+##
+
+🙋‍♂️ Author
 Mehfil
 🎓 B.Tech in Artificial Intelligence & Data Science
 📊 Data Analyst | Business Analytics Enthusiast
