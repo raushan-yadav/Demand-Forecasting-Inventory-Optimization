@@ -60,7 +60,8 @@ forecast = model.predict(future)
 # Visualize
 model.plot(forecast)
 
-🙋‍♂️ Author
+
+/🙋‍♂️ Author
 Mehfil
 🎓 B.Tech in Artificial Intelligence & Data Science
 📊 Data Analyst | Business Analytics Enthusiast
